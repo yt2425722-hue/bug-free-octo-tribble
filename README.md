@@ -1,3 +1,7 @@
+## 本次上传文件：仅拆分语言并补两图
+
+[中文、英文Word与PDF](livis-upload-split/)
+
 ## 当前审阅版本
 
 [保留细节与配图版本（中文、英文、PDF和十图导入包）](livis-restored/)
