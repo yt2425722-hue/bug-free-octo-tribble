@@ -1,3 +1,7 @@
+## 最新英文版：按软件导出的中文版PDF匹配
+
+[英文Word、PDF及英文图片包](livis-english-final/)
+
 ## 本次上传文件：仅拆分语言并补两图
 
 [中文、英文Word与PDF](livis-upload-split/)
